@@ -1,0 +1,21 @@
+{
+  "name": "hashmapex",
+  "version": "1.0.0",
+  "description": "Run with ``` node --experimental-strip-types --watch main.ts ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohamadObeid9/hashMapEx.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/MohamadObeid9/hashMapEx/issues"
+  },
+  "homepage": "https://github.com/MohamadObeid9/hashMapEx#readme"
+}
